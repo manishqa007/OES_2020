@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/mysql-connector-java-3.1.14-bin-g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/manishpatel/Desktop/oes/Dependency/cos.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
